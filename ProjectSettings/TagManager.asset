@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Hole
+  - Enemy
+  - Diamonds
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3609524561
+    locked: 0
+  - name: FirstBg
+    uniqueID: 2320397993
+    locked: 0
+  - name: Foreground
+    uniqueID: 1756389021
+    locked: 0
+  - name: Ground
+    uniqueID: 429164941
+    locked: 0
+  - name: Player
+    uniqueID: 3629233653
+    locked: 0
+  - name: Enemy
+    uniqueID: 1880384769
+    locked: 0
+  - name: BigDiamond
+    uniqueID: 1525517541
+    locked: 0
+  - name: SmallDiamond
+    uniqueID: 204597771
+    locked: 0
+  - name: Heart
+    uniqueID: 2918243281
+    locked: 0
+  - name: Bullet
+    uniqueID: 250683749
+    locked: 0
+  - name: Healthbar
+    uniqueID: 1100592797
+    locked: 0
+  m_RenderingLayers:
+  - Default
